@@ -1,10 +1,6 @@
 <h1 align="center">Hey, I'm Ben Border</h1>
 <h3 align="center">A web developer</h3>
 
-- 🌱 I’m currently learning: **Node.js**
-
-- 📫 How to reach me: **ben@bunnbuns.net**
-
 - ⚡ Fun fact: **I like making things**
 
 <p align="left">
